@@ -1,0 +1,42 @@
+body {
+    color: red;
+}
+header {
+    text-align: center;
+}
+p {
+    font-size:14px;
+    margin-top:10px;
+    margin-left:100px;
+    margin-right:100px;
+    margin-bottom:20px;
+}
+footer {
+    text-align:center;
+}
+h2 {
+    color: blue;
+    font-size: 20px;
+    font-family: 'Julius Sans One', sans-serif;
+    padding-bottom: 35px;
+}
+
+h1 {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 20px;
+    color: blue;
+}
+article {
+    font-family:'Julius Sans One', sans-serif;
+    font-size: 14px;
+    color: green;
+}
+
+hover { /*want hovered hyperlinks to go purple*/
+    color: purple;
+}
+
+#byline {
+    font-style:italic;
+    font-size:12px;
+}
